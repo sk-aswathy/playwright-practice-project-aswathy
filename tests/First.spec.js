@@ -6,5 +6,6 @@ import test from "@playwright/test"; //import
 test("First Sample test" , async({browser})=>{ //browser fixture
     const context = await browser.newContext(); //new tab in the browser
     const page = await context.newPage();
+    console.log("first file");
     await page.goto("https://www.google.com/");
 })
