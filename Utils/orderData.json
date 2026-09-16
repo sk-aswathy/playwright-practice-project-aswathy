@@ -1,0 +1,28 @@
+[
+{
+    "userName" : "standard_user" , 
+    "passWord" : "secret_sauce",
+    "firstname" : "Aswathy",
+    "lastNAme" : "SK",
+    "zipcode" : "695583",
+    "myProduct" : "Sauce Labs Onesie"
+},
+{
+    "userName" : "standard_user" , 
+    "passWord" : "secret_sauce",
+    "firstname" : "Ritwika",
+    "lastNAme" : "Mahesh",
+    "zipcode" : "695583",
+    "myProduct" : "Sauce Labs Backpack"
+},
+{
+    "userName" : "standard_user" , 
+    "passWord" : "secret_sauce",
+    "firstname" : "Athira",
+    "lastNAme" : "SK",
+    "zipcode" : "695583",
+    "myProduct" : "Sauce Labs Bike Light"
+}
+
+
+]

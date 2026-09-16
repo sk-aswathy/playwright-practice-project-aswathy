@@ -1,0 +1,12 @@
+[
+  'Sauce Labs Backpack',
+  'Sauce Labs Bike Light',
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Onesie',
+  'Test.allTheThings() T-Shirt (Red)'
+]
+count of items are : 6
+Sauce Labs Bike Light
+cart cartitem is : Sauce Labs Bike Light
+Thank you for your order!

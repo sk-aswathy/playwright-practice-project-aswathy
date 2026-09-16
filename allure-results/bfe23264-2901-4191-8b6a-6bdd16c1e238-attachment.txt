@@ -1,0 +1,9 @@
+count is  4
+coint dragged  0
+locator to be dragged  locator('#todrag').locator('span[draggable="true"]').first()
+data to be dragged  Draggable n°1
+coint dragged  1
+locator to be dragged  locator('#todrag').locator('span[draggable="true"]').nth(1)
+data to be dragged  Draggable n°3
+coint dragged  2
+locator to be dragged  locator('#todrag').locator('span[draggable="true"]').nth(2)
