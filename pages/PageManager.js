@@ -1,7 +1,7 @@
 import { LoginPage } from "../pages/LoginPage";
 import { ProductPage } from "../pages/ProductPage";
 import { CartPage } from "../pages/CartPage";
-import { CheckoutPage } from "../pages/Checkoutpage.js";
+import { CheckoutPage } from "../pages/CheckoutPage.js";
 import {ReviewOrderPage} from "../pages/ReviewOrderPage"
 import { OrderCreatePage } from "../pages/OrderCreatePage";
 
