@@ -1,7 +1,7 @@
 
 import {test,expect} from "@playwright/test"
 
-test("Example1" , async({browser})=>{
+test("@web Example1" , async({browser})=>{
     const context = await browser.newContext();
     const page = await context.newPage();
     await page.goto("https://selenium.qabible.in/form-submit.php");

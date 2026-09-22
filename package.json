@@ -13,8 +13,9 @@
     "config" : "npx playwright test --config=playwright.config_1.js",
     "chrome" : "npx playwright test --config=playwright.config_1.js --project=ChromeProject",
     "fireFox" : "npx playwright test --config=playwright.config_1.js --project=FireFoxProject",
-    "webKit" : "npx playwright test --config=playwright.config_1.js --project=WebkitProject"
-
+    "webKit" : "npx playwright test --config=playwright.config_1.js --project=WebkitProject",
+    "webtag" : "npx playwright test --grep @web",
+    "codegen" : "npx playwright codegen"
 
   },
 

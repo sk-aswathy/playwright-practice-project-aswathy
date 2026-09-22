@@ -26,8 +26,8 @@ export default defineConfig({
   use:{
     headless: true,
     screenshot: 'only-on-failure',
-    video : 'retain-on-failure',
-    trace : 'retain-on-failure'
+    //video : 'retain-on-failure',
+   // trace : 'retain-on-failure'
   }
 
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
