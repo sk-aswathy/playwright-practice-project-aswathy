@@ -15,11 +15,11 @@ import { defineConfig, devices } from '@playwright/test';
 export default defineConfig({
   testDir: './tests',
    /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  //reporter: 'html', now, wea re going to make allure report
-  reporter : [
+  reporter: 'html' ,//, now, wea re going to make allure report
+ /* reporter : [
     ['line'],['allure-playwright',{outputFolder:"allure-results"}],
-  ],
-  timeout: 40*1000,
+  ],*/
+  //timeout: 40*1000,
  
   //retries : 1,
 
