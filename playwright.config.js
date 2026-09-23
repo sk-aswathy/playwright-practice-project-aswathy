@@ -26,6 +26,7 @@ export default defineConfig({
   use:{
     headless: true,
     screenshot: 'only-on-failure',
+    fullyParallel : true
     //video : 'retain-on-failure',
    // trace : 'retain-on-failure'
   }
